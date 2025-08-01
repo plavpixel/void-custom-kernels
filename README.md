@@ -7,7 +7,7 @@ For more information, including detailed instructions, creating custom pkgs like
 
 ## Status
 
-- `linux-zen`: Tested and working on `x86_64`
+- `linux-zen`: NVIDIA DKMS module broken, working on a fix. (x86)
 - `linux-tkg`: WIP
 - `linux-cachyos`: Planned
 - `linux-liquorix`: Planned
